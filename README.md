@@ -1,17 +1,16 @@
-### Hi, I'm Kuang Wang · 王匡 👋
+### Hi, I'm Kuang Wang · 王匡
 
 I'm a Ph.D. student in Computer Science at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en),
 advised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498).
 
 I work on **natural and adaptive human–AI interactions** through speech and language.
 
-- 🔬 My research interests are **Speech Language Models, expressive speech generation, and user modeling**.
-- 🛠️ I build and contribute to open-source research projects: [SASLM](https://github.com/wangkevin02/SASLM) for expressive speech, [USP](https://github.com/wangkevin02/USP) for user simulation, and [MMAPIS](https://github.com/fjiangAI/MMAPIS) for academic paper interpretation.
-- 💻 I'm a research intern at **Tencent Multimedia Lab**, working on text data preparation for continual pre-training of Speech Language Models.
+- My research interests are **Speech Language Models, expressive speech generation, and user modeling**.
+- I build and contribute to open-source research projects: [SASLM](https://github.com/wangkevin02/SASLM) for expressive speech, [USP](https://github.com/wangkevin02/USP) for user simulation, and [MMAPIS](https://github.com/fjiangAI/MMAPIS) for academic paper interpretation.
 
 #### Links
 
-- 🌐 [Academic homepage](https://wangkevin02.github.io/) — publications, background, and CV.
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=xsMklSkAAAAJ)
-- 🤗 [Hugging Face](https://huggingface.co/wangkevin02)
-- ✉️ [kuangwang@link.cuhk.edu.cn](mailto:kuangwang@link.cuhk.edu.cn)
+- <img src="assets/globe.svg" width="16" height="16" alt=""> [Academic homepage](https://wangkevin02.github.io/) — publications, background, and CV.
+- <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="16" height="16" alt=""> [Google Scholar](https://scholar.google.com/citations?user=xsMklSkAAAAJ)
+- <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="16" height="16" alt=""> [Hugging Face](https://huggingface.co/wangkevin02)
+- <img src="assets/mail.svg" width="16" height="16" alt=""> [kuangwang@link.cuhk.edu.cn](mailto:kuangwang@link.cuhk.edu.cn)
