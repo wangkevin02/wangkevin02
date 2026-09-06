@@ -10,7 +10,7 @@ I work on **natural and adaptive human–AI interactions** through speech and la
 
 #### Links
 
-- <img src="assets/globe.svg" width="16" height="16" alt=""> [Academic homepage](https://wangkevin02.github.io/) — publications, background, and CV.
-- <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="16" height="16" alt=""> [Google Scholar](https://scholar.google.com/citations?user=xsMklSkAAAAJ)
-- <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="16" height="16" alt=""> [Hugging Face](https://huggingface.co/wangkevin02)
+- <img src="assets/about.svg" width="16" height="16" alt=""> About me: see [my homepage](https://wangkevin02.github.io/).
+- <img src="assets/scholar.svg" width="16" height="16" alt=""> [Google Scholar](https://scholar.google.com/citations?user=xsMklSkAAAAJ)
+- 🤗 [Hugging Face](https://huggingface.co/wangkevin02)
 - <img src="assets/mail.svg" width="16" height="16" alt=""> [kuangwang@link.cuhk.edu.cn](mailto:kuangwang@link.cuhk.edu.cn)
