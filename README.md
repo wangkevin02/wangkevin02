@@ -32,7 +32,7 @@ understand their users and communicate in more expressive and human-like ways.
 
 ## Experience
 
-**Tencent Multimedia Lab** · Research Intern · 2025.07–Present  
+**Tencent Multimedia Lab** · Research Intern · 2025.07–Present<br>
 Text data preparation for continual pre-training of Speech Language Models.
 
 ---
