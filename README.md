@@ -14,5 +14,4 @@ I work on **natural and adaptive human–AI interactions** through speech and la
 - <img src="assets/scholar.svg" width="16" height="16" alt=""> Publications: [Google Scholar](https://scholar.google.com/citations?user=xsMklSkAAAAJ).
 - <img src="assets/huggingface.svg" width="16" height="16" alt=""> AI profile: [Hugging Face](https://huggingface.co/wangkevin02).
 - <img src="assets/mail.svg" width="16" height="16" alt=""> Contact me: [kuangwang@link.cuhk.edu.cn](mailto:kuangwang@link.cuhk.edu.cn).
-
-See my [CV](https://wangkevin02.github.io/cv/) for details.
+- <img src="assets/cv.svg" width="16" height="16" alt=""> Résumé: [CV](https://wangkevin02.github.io/cv/).
